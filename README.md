@@ -1,2 +1,2 @@
 # TugasGIT-kominfo
-This program upload by GIT from vscode
+We learned how to upload files from vscode directly to git
